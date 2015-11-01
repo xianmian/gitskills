@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 a txt
 yes it is a txt
+=======
+ iif
+>>>>>>> dec
 
