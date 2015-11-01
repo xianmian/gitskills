@@ -1,4 +1,9 @@
 a txt
+<<<<<<< Updated upstream
 yes it is a txt
  iif
  结
+=======
+yy
+
+>>>>>>> Stashed changes
